@@ -24,11 +24,15 @@ h1 {
     color: var(--highlight-color);
 }
 
-.container, .row {
-    border: 2px solid black;
-}
+/* Grid visualisation styles
 
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgray;
-}
+    .container, .row {
+        border: 2px solid black;
+    }
+
+    .col-12 {
+        border: 2px solid white;
+        background-color: lightgray;
+    }
+        
+*/
