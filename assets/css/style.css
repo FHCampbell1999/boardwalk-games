@@ -24,6 +24,15 @@ h1 {
     color: var(--highlight-color);
 }
 
+/* Navbar styles */
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
 /* Grid visualisation styles
 
     .container, .row {
@@ -34,5 +43,5 @@ h1 {
         border: 2px solid white;
         background-color: lightgray;
     }
-        
+
 */
